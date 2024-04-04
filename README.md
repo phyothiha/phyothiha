@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey! Nice to see you. 👋
 
-I am Phyo Thiha. You can call me ***Ian***. Fullstack developer from **Yangon, Myanmar**, who loves to learn technology and business.
+I am Phyo Thiha. You can call me ***Ian***. Web developer from **Yangon, Myanmar**, who loves to learn technology and business.
 
 - 🔭 I’m currently working on Laravel Vue Helpdesk System
 - 🌱 I’m currently learning React, NodeJS and Flutter
