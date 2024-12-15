@@ -4,7 +4,7 @@ Hi 👋 My name is Phyo Thiha
 Laravel | Vue | WordPress
 -------------------------
 
-Experienced PHP / Laravel Developer with over 4 years in developing and managing dynamic web applications, skilled in database design, web services, and performance optimization. Proficient in PHP, Laravel, JavaScript, and AWS, with strong problem-solving abilities and a collaborative approach. A key career achievement includes playing a main role in a system integration startup, where I developed customer-facing issue ticketing software to enhance response times and customer satisfaction.
+Experienced PHP/Laravel Developer with over 4 years in developing and managing dynamic web applications, skilled in database design, web services, and performance optimization. Proficient in PHP, Laravel, JavaScript, and WordPress, with strong problem-solving abilities and a collaborative approach. A key career achievement includes playing a main role in a system integration startup, where I developed customer-facing issue ticketing software to enhance response times and customer satisfaction.
 
 * 🌍  I'm based in Yangon, Myanmar
 * ✉️  You can contact me at [phyothiha96@gmail.com](mailto:phyothiha96@gmail.com)
