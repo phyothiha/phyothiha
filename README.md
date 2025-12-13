@@ -1,30 +1,55 @@
-Hi 👋 My name is Phyo Thiha
-===========================
+# 👋 Mingalaba, I'm Phyo Thiha
 
-Laravel | Vue | WordPress
--------------------------
+**Web Development Team Lead** with 5 years of experience in software development, cross-team collaboration, technical documentation, and mentoring developers to enhance both soft and hard skills.
 
-Experienced PHP/Laravel Developer with over 4 years in developing and managing dynamic web applications, skilled in database design, web services, and performance optimization. Proficient in PHP, Laravel, JavaScript, and WordPress, with strong problem-solving abilities and a collaborative approach. A key career achievement includes playing a main role in a system integration startup, where I developed customer-facing issue ticketing software to enhance response times and customer satisfaction.
+## 💎 Milestones
 
-* 🌍  I'm based in Yangon, Myanmar
-* ✉️  You can contact me at [phyothiha96@gmail.com](mailto:phyothiha96@gmail.com)
+- 🎥 Featured on [Bagisto Developer Experience Show](https://www.youtube.com/watch?v=6mzFHt-EEAQ)
 
-### Skills
+## ⚡ TL;DR
 
+- 💼 Currently working at [iMyanmarHouse](https://www.imyanmarhouse.com/)
+- ✨ Active contributor to [Bagisto](https://github.com/bagisto/bagisto)
+- 🌱 Learning **DevOps culture** through [100 Days of DevOps](https://kodekloud.com/100-days-of-devops)
+- 📚 Re-taking [CS50 Python 2022](https://cs50.harvard.edu/python/)
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+## 🚀 My Tech Arsenal 
 
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### Socials
+### Backend
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 
-<p align="left"> <a href="https://www.dev.to/phyothiha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/phyothiha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/phyothiha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Testing
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white)
+![Pest PHP](https://img.shields.io/badge/-Pest_PHP-F6339A?style=flat-square&logo=php&logoColor=white)
 
-### Badges
+### CMS
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
-<b>My GitHub Stats</b>
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-<a href="http://www.github.com/phyothiha"><img src="https://github-readme-stats.vercel.app/api?username=phyothiha&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="phyothiha's GitHub stats" /></a>
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<a href="http://www.github.com/phyothiha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phyothiha&stroke=000000&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+### Documentation
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Chanelog](https://img.shields.io/badge/-Changelog-E05735?style=flat-square&logo=keepachangelog&logoColor=white)
+![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-FE5196?style=flat-square&logo=conventionalcommits&logoColor=white)
+
+---
+
+![Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=phyothiha&show_icons=true&theme=transparent)
