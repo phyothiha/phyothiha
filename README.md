@@ -10,8 +10,6 @@
 
 - 💼 Currently working at [iMyanmarHouse](https://www.imyanmarhouse.com/)
 - ✨ Active contributor to [Bagisto](https://github.com/bagisto/bagisto)
-- 🌱 Learning **DevOps culture** through [100 Days of DevOps](https://kodekloud.com/100-days-of-devops)
-- 📚 Re-taking [CS50 Python 2022](https://cs50.harvard.edu/python/)
 
 ## 🚀 My Tech Arsenal 
 
