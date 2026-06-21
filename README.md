@@ -9,7 +9,6 @@
 ## ⚡ TL;DR
 
 - 💼 Currently working at [iMyanmarHouse](https://www.imyanmarhouse.com/)
-- ✨ Active contributor to [Bagisto](https://github.com/bagisto/bagisto)
 
 ## 🚀 My Tech Arsenal 
 
@@ -31,7 +30,6 @@
 
 ### CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
